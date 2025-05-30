@@ -1,4 +1,4 @@
-### common_crawler - extrect mongolian text and urls from Common crawl dataset
+### common_crawler - extract mongolian text and urls from Common crawl dataset
 ```
 check common_crawler/README.md
 ```
